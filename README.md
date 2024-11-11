@@ -1,6 +1,6 @@
 # GameStore
 
-Aplicativo desenvolvido em iOS nativo comtemplando o uso de principios de SOLID, Storyboard, UIKit e CoreData.
+Aplicativo desenvolvido em iOS nativo comtemplando o uso de principios SOLID, Storyboard, UIKit e CoreData.
 
 ### Recursos
 Protótipo navegavel
