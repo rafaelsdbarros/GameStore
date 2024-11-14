@@ -1,21 +1,17 @@
 # GameStore
 
-Aplicativo desenvolvido em iOS nativo.
 
 ### Recursos
-Protótipo navegavel
-> https://marvelapp.com/prototype/ccgge05
 
-Font
-> https://fonts.google.com/specimen/Pacifico
+Protótipo navegavel: https://marvelapp.com/prototype/ccgge05
+
+Font: 
+https://fonts.google.com/specimen/Pacifico
 
 ### Tecnologia
-Linguagem: Swift
-
-Versão mínima iOS: 12.0
-
-Datasource: CoreData
-
-Arquitetura: MVVC
+* Linguagem: Swift 5
+* Versão mínima iOS: 16.0
+* Datasource: CoreData
+* Arquitetura: MVVM
 
 
