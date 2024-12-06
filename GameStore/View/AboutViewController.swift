@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  AboutViewController.swift
 //  GameStore
 //
 //  Created by Rafael on 04/12/24.
@@ -7,13 +7,13 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class AboutViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
-    }
+        self.view.setBackgroundOnTop();
 
+    }
+    
 
 }
-
